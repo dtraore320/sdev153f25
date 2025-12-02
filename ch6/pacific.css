@@ -49,6 +49,7 @@ nav {
       padding: .5em .5em .5em;
       float: left;
       width: 160px;
+      position: fixed;
       font-size: 1.2em;
 }
 
